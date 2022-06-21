@@ -1,12 +1,13 @@
 # Hi 👋, I'm Bartosz!
 
-## 🎓 I am a Student of Information Technology
+### 🎓 I am a Student of Information Technology
 
-
-## 📫 How to Reach me:
+### 📫 How to Reach me:
 
 - 📧: bartoszmiszczak1@gmail.com
 - <a href="https://linkedin.com/in/bartosz-miszczak-a32504212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-miszczak" height="20" width="20" /></a>
+
+<br>
 
 ## 🛠 Languages and Tools:
 
@@ -30,9 +31,3 @@
 </p>
 
 <br />
-
-<!--## 📚 At the moment I am learing
-- [Spring](https://spring.io/)
-- [Hibernate](https://hibernate.org/)
-- [Jakarta EE](https://jakarta.ee/)
-- [PostgreSQL](https://www.postgresql.org/)-->
