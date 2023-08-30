@@ -7,8 +7,6 @@
 - 📧: bartoszmiszczak1@gmail.com
 - <a href="https://linkedin.com/in/bartosz-miszczak-a32504212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-miszczak" height="20" width="20" /></a>
 
-<br />
-
 ### 📓 Currently learning:
 
 <p>
@@ -18,13 +16,11 @@
     <img src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" alt="Spring" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<br />
-
 ## 🛠 Languages and Tools:
 
 <p>
     <img src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://plugins.jetbrains.com/files/20207/374746/icon/pluginIcon.png" alt="Jakarta" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://jakarta.ee/images/jakarta/jakarta_ee_400x400.png" alt="Jakarta" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
